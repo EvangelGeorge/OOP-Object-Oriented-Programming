@@ -1,0 +1,18 @@
+## What is OOP?
+
+Object-Oriented Programming (OOP) is a programming paradigm that revolves around the concept of "objects." It organizes code into reusable components called classes, each encapsulating data and behavior related to a specific entity. OOP emphasizes abstraction, encapsulation, inheritance, and polymorphism to create modular and understandable code.
+Key Concepts
+
+   - Abstraction: Focusing on essential characteristics while ignoring irrelevant details.
+   - Encapsulation: Bundling data and methods into a single unit (class) with controlled access.
+   - Inheritance: Creating new classes based on existing classes to inherit properties and behaviors.
+   - Polymorphism: Treating different objects as instances of a common superclass.
+
+Classes: Blueprint for Objects
+
+A class is a blueprint that defines the structure and behavior of objects. It consists of:
+
+    - Attributes (properties/fields) for storing data.
+    - Methods (functions/operations) for defining behavior.
+    - Constructor (__init__() method) for initializing object attributes.
+    - Instance variables for unique data and class variables for shared data.
